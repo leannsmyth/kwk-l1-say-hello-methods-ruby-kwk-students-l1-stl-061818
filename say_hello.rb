@@ -6,8 +6,8 @@ end
 
 say_hello
 
-def say_hello2
-  puts "Hello #{name}!"
-end
+# def say_hello2
+#   puts "Hello #{name}!"
+# end
 
-say_hello2
+# say_hello2
