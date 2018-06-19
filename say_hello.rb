@@ -4,7 +4,7 @@ def say_hello (name="Gabby")
   puts "Hello #{name}!"
 end
 
-say_hello
+# say_hello
 
 # def say_hello2
 #   puts "Hello #{name}!"
