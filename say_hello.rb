@@ -5,3 +5,9 @@ def say_hello (name="Gabby")
 end
 
 say_hello
+
+def say_hello
+  puts "Hello #{name}!"
+end
+
+say_hello
